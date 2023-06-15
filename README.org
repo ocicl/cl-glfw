@@ -1,0 +1,9 @@
+* cl-glfw
+
+Common Lisp CFFI bindings to glfw
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/jimrthy/cl-glfw.git |
+| commit  | 11d2aac                                    |
+| systems | cl-glfw                                    |
+|---------+--------------------------------------------|
